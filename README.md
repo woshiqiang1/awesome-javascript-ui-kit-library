@@ -1,7 +1,7 @@
 # awesome-javascript-ui-library
 [![awesome](https://img.shields.io/static/v1?label=😎&message=awesome&color=blueviolet)]()
 
-😎 Awesome lists about widely used javascript UI library
+😎 Awesome lists about high quality javascript UI library
 
 ## PC 💻
 
@@ -13,6 +13,7 @@
 - [IView](http://iview.talkingdata.com/#/components/guide/install-en) [![Repo Star](https://img.shields.io/github/stars/iview/iview.svg?label=&style=social)](https://github.com/iview/iview) - [![Vue2](https://img.shields.io/static/v1?label=&message=Vue2&color=green)]() - [![active](https://img.shields.io/github/last-commit/iview/iview)]()
 - [Material-UI](https://mui.com/material-ui/getting-started/overview) [![Repo Star](https://img.shields.io/github/stars/mui/material-ui.svg?label=&style=social)](https://github.com/mui/material-ui) - [![React](https://img.shields.io/static/v1?label=&message=React&color=blue)]() - [![active](https://img.shields.io/github/last-commit/mui/material-ui)]()
 - [Naive-UI](https://www.naiveui.com/en-US/os-theme/components/button) [![Repo Star](https://img.shields.io/github/stars/tusen-ai/naive-ui.svg?label=&style=social)](https://github.com/tusen-ai/naive-ui) - [![Vue3](https://img.shields.io/static/v1?label=&message=Vue3&color=success)]() - [![active](https://img.shields.io/github/last-commit/tusen-ai/naive-ui)]()
+- [Vuestic-UI](https://vuestic.dev/zh) [![Repo Star](https://img.shields.io/github/stars/epicmaxco/vuestic-ui.svg?label=&style=social)](https://github.com/epicmaxco/vuestic-ui) - [![Vue3](https://img.shields.io/static/v1?label=&message=Vue3&color=success)]() - [![active](https://img.shields.io/github/last-commit/epicmaxco/vuestic-ui)]()
 - [Vuetify](https://next.vuetifyjs.com/en/components/all/) [![Repo Star](https://img.shields.io/github/stars/vuetifyjs/vuetify.svg?label=&style=social)](https://github.com/vuetifyjs/vuetify) - [![Vue2](https://img.shields.io/static/v1?label=&message=Vue2&color=green)]() [![Vue3](https://img.shields.io/static/v1?label=&message=Vue3&color=success)]() - [![active](https://img.shields.io/github/last-commit/vuetifyjs/vuetify)]()
 
 ## Mobile 📱
