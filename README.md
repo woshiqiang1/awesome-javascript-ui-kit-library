@@ -1,7 +1,7 @@
 # awesome-javascript-ui-library
 [![awesome](https://img.shields.io/static/v1?label=😎&message=awesome&color=blueviolet)]()
 
-😎 Awesome lists about high quality javascript UI library
+😎 Awesome lists about high quality javascript UI-kit library
 
 ## PC 💻
 
