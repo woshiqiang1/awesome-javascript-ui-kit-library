@@ -1,7 +1,7 @@
-# awesome-javascript-ui-kit-library
-[![awesome](https://img.shields.io/static/v1?label=😎&message=awesome&color=blueviolet)]()
+# awesome-javascript-ui-kit-library 
+![awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
 
-😎 Awesome lists about high quality javascript UI-kit library
+😎 Awesome list about high quality javascript UI-kit library
 
 ## PC 💻
 
@@ -16,6 +16,7 @@
 - [Mantine](https://mantine.dev/core/app-shell) [![Repo Star](https://img.shields.io/github/stars/mantinedev/mantine.svg?label=&style=social)](https://github.com/mantinedev/mantine) - [![React](https://img.shields.io/static/v1?label=&message=React&color=blue)]() - [![active](https://img.shields.io/github/last-commit/mantinedev/mantine)]()
 - [Material-UI](https://mui.com/material-ui/getting-started/overview) [![Repo Star](https://img.shields.io/github/stars/mui/material-ui.svg?label=&style=social)](https://github.com/mui/material-ui) - [![React](https://img.shields.io/static/v1?label=&message=React&color=blue)]() - [![active](https://img.shields.io/github/last-commit/mui/material-ui)]()
 - [Naive-UI](https://www.naiveui.com/en-US/os-theme/components/button) [![Repo Star](https://img.shields.io/github/stars/tusen-ai/naive-ui.svg?label=&style=social)](https://github.com/tusen-ai/naive-ui) - [![Vue3](https://img.shields.io/static/v1?label=&message=Vue3&color=success)]() - [![active](https://img.shields.io/github/last-commit/tusen-ai/naive-ui)]()
+- [Next-UI](https://nextui.org/) [![Repo Star](https://img.shields.io/github/stars/nextui-org/nextui.svg?label=&style=social)](https://github.com/nextui-org/nextui) - [![React](https://img.shields.io/static/v1?label=&message=React&color=blue)]() - [![active](https://img.shields.io/github/last-commit/nextui-org/nextui)]()
 - [Tdesign-vue-next](https://tdesign.tencent.com/vue-next/overview) [![Repo Star](https://img.shields.io/github/stars/Tencent/tdesign-vue-next.svg?label=&style=social)](https://github.com/Tencent/tdesign-vue-next) - [![Vue3](https://img.shields.io/static/v1?label=&message=Vue3&color=success)]() - [![active](https://img.shields.io/github/last-commit/Tencent/tdesign-vue-next)]()
 - [Vuestic-UI](https://vuestic.dev) [![Repo Star](https://img.shields.io/github/stars/epicmaxco/vuestic-ui.svg?label=&style=social)](https://github.com/epicmaxco/vuestic-ui) - [![Vue3](https://img.shields.io/static/v1?label=&message=Vue3&color=success)]() - [![active](https://img.shields.io/github/last-commit/epicmaxco/vuestic-ui)]()
 - [Vuetify](https://next.vuetifyjs.com/en/components/all/) [![Repo Star](https://img.shields.io/github/stars/vuetifyjs/vuetify.svg?label=&style=social)](https://github.com/vuetifyjs/vuetify) - [![Vue2](https://img.shields.io/static/v1?label=&message=Vue2&color=green)]() [![Vue3](https://img.shields.io/static/v1?label=&message=Vue3&color=success)]() - [![active](https://img.shields.io/github/last-commit/vuetifyjs/vuetify)]()
