@@ -1,6 +1,6 @@
 # awesome-javascript-ui-kit-library
 
-![awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
+![awesome](https://camo.githubusercontent.com/715ee701c8a9a0dbe30aac69ed79f5712a6542f5a482a3940084ce76d494a779/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
 
 😎 Awesome list about high quality javascript UI-kit library
 
@@ -48,3 +48,4 @@
 - [React-Native-Paper](https://reactnativepaper.com) [![Repo Star](https://img.shields.io/github/stars/callstack/react-native-paper.svg?label=&style=social)](https://github.com/callstack/react-native-paper) - [![React-Native](https://img.shields.io/static/v1?label=&message=React-Native&color=blue)]() - [![active](https://img.shields.io/github/last-commit/callstack/react-native-paper)]()
 - [React-Native-UI-Kitten](https://akveo.github.io/react-native-ui-kitten) [![Repo Star](https://img.shields.io/github/stars/akveo/react-native-ui-kitten.svg?label=&style=social)](https://github.com/akveo/react-native-ui-kitten) - [![React-Native](https://img.shields.io/static/v1?label=&message=React-Native&color=blue)]() - [![active](https://img.shields.io/github/last-commit/akveo/react-native-ui-kitten)]()
 - [React-Native-UI-Lib](https://wix.github.io/react-native-ui-lib) [![Repo Star](https://img.shields.io/github/stars/wix/react-native-ui-lib.svg?label=&style=social)](https://github.com/wix/react-native-ui-lib) - [![React-Native](https://img.shields.io/static/v1?label=&message=React-Native&color=blue)]() - [![active](https://img.shields.io/github/last-commit/wix/react-native-ui-lib)]()
+- [React-Native-Xiaoshu](https://hjfruit.github.io/xiaoshu-doc) [![Repo Star](https://img.shields.io/github/stars/hjfruit/react-native-xiaoshu.svg?label=&style=social)](https://github.com/hjfruit/react-native-xiaoshu) - [![React-Native](https://img.shields.io/static/v1?label=&message=React-Native&color=blue)]() - [![active](https://img.shields.io/github/last-commit/hjfruit/react-native-xiaoshu)]()
